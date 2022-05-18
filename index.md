@@ -16,7 +16,12 @@
 <img src="images/jcole.jpg?raw=true"/>
 
 ---
-
+[Project 3 Title](http://example.com/)
+<img src="images/exposure.jpg?raw=true"/>
+---
+[Project 3 Title](http://example.com/)
+<img src="images/drake-poetry.jpg?raw=true"/>
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
